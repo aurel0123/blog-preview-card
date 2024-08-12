@@ -50,6 +50,12 @@ body{
 }
 .container-text h3{
     font-size: 20px;
+    cursor: pointer;
+
+}
+.container-text h3:hover{
+    color: var(--yellow-color);
+    transition: 0.5s ease-in-out;
 }
 .container-text .comment{
     font-size: 14px;
