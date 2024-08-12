@@ -13,7 +13,6 @@ body{
     display: flex;
     height: 100vh;
     justify-content: center;
-    width: 100%;
     align-items: center;
 }
 .container-text-img{
@@ -70,4 +69,5 @@ body{
     .container-text-img{
         width: 250px;
     }
+    
 }
